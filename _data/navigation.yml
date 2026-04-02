@@ -9,13 +9,20 @@
 
 main:
   - title: "About"
-    url: /about/
-
+    url: /
+    
+  - title: "Publications"
+    url: /publications/
+  
+    
   - title: "Research"
-    url: /research/    
-
-  - title: "Writing"
-    url: /writing/    
+    url: /research/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Contact"
+    url: /#contact 
     
   #- title: "Portfolio"
   #  url: /portfolio/
