@@ -11,6 +11,6 @@ paperurl: 'https://www.biorxiv.org/content/10.1101/2024.07.02.600738'
 bibtexurl: ''
 citation: 'Emmons-Bell, M., et al. (2024). Polyamines regulate cell fate by altering the accessibility of histone tails. <i>bioRxiv</i>.'
 ---
-[Download paper here](https://www.biorxiv.org/content/10.1101/2024.07.02.600738)
-Polyamines are polycationic metabolites abundant in stem and cancer cells. This work reveals how they influence chromatin structure and cell fate decisions.
+
+Polyamines are polycationic metabolites abundant in stem and cancer cells. This work reveals how they influence chromatin structure and cell fate decisions. [Download paper here](https://www.biorxiv.org/content/10.1101/2024.07.02.600738)
 
