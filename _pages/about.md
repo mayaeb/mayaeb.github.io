@@ -17,3 +17,12 @@ I completed my graduate training at UC Berkeley, undergrad at Tufts University, 
 postdoctoral positions at Memorial Sloan Kettering Cancer Center, Columbia Univeristy, and 
 Yale University (where I am now). I think and write a lot about science and society, am 
 learning how to crochet, and grow carnivorous plants on my windowsill. 
+
+---
+
+## Contact {#contact}
+
+**Email:** maya.emmons-bell@yale.edu  
+**Office:** Yale School of Medicine, Department of Cell Biology
+
+[Google Scholar](https://scholar.google.com) | [ORCID](https://orcid.org/YOUR-ORCID) | [GitHub](https://github.com/yourusername)
